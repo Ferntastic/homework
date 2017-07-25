@@ -1,0 +1,21 @@
+def ask():
+    return input ("How many sandwiches can you eat?")
+
+while True:        
+    def loser(sand, bsand):
+        sand = ask()
+       
+        bsand = sand + 1 
+        loser(sand, bsand)
+        True >=1
+            
+        else:
+            print "Even a baby can eat 1 sandwich"
+            
+        print "That makes you a Loser! :`("
+        
+        if sand <= 4: 
+            print "Psh! You can only eat", sand, "My brother can eat ", bsand
+        else:
+            print "You would get sick eating", sand, "sandwiches... liar"
+            
