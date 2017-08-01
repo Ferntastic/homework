@@ -1,0 +1,23 @@
+import sys
+import time
+
+for a in range (48):
+    sys.stdout.write('* ')
+    if a == 7:
+            sys.stdout.write('=' * 25 + '\n')
+    if a == 15:
+            sys.stdout.write('=' * 25 + '\n')
+    if a == 23:
+            sys.stdout.write('=' * 25 + '\n')
+    if a == 31:
+            sys.stdout.write('=' * 25 + '\n')
+    if a == 39:
+            sys.stdout.write('=' * 25 + '\n')
+    if a == 47:
+            sys.stdout.write('=' * 25 + '\n')
+    sys.stdout.flush()
+    time.sleep(.04)
+for a in range (48,56):
+    sys.stdout.write('=' * 41 + '\n')
+    sys.stdout.flush()
+    time.sleep(.04)
