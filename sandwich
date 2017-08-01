@@ -9,7 +9,7 @@ while True:
         loser(sand, bsand)
         True >=1
             
-        else:
+        
             print "Even a baby can eat 1 sandwich"
             
         print "That makes you a Loser! :`("
