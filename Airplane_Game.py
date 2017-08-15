@@ -1,6 +1,6 @@
 import sys
 choice_list = [' .^.   1', ' <--   2', ' -->   3', ' <v>   4']
-#Lets see if someone can build a crude looking airplane
+#Lets see if someone can build a crude looking airplane using a deadline and limited chances to pick the right parts
 
 
 print ("                               Welcome to Boeing")
