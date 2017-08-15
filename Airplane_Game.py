@@ -1,11 +1,11 @@
 import sys
 choice_list = [' .^.   1', ' <--   2', ' -->   3', ' <v>   4']
+#Lets see if someone can build a crude looking airplane
 
 
+print ("                               Welcome to Boeing")
 
-print ("                Welcome to Boeing")
-
-print ("The faster you build an airplane the better. ;-)")
+print ("The faster you build an airplane the better, but be careful. You only get 2 chances. ;-)")
 
 print ('Choose the nose of the airplane first. You will end with the tail')
 
